@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.13)  19 FEB 2023 19:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.13)  20 FEB 2023 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -544,7 +544,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  75i,11n,76p,249b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Stern_hw_06.pdf (17 pages, 210835 bytes).
+Output written on Stern_hw_06.pdf (17 pages, 210551 bytes).
 PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  217 compressed objects within 3 object streams
