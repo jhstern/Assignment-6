@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.13)  19 FEB 2023 19:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.13)  19 FEB 2023 19:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -511,11 +511,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[12]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 328.
-(/Users/jhstern/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [13
+[12] [13
 
 ]
 
@@ -540,18 +536,18 @@ Package rerunfilecheck Info: File `Stern_hw_06.out' has not changed.
 (rerunfilecheck)             Checksum: 542937513C95E343B27E8D3FA51E99AD;1439.
  ) 
 Here is how much of TeX's memory you used:
- 10878 strings out of 477989
- 171151 string characters out of 5838545
+ 10838 strings out of 477989
+ 170483 string characters out of 5838545
  1857346 words of memory out of 5000000
- 30837 multiletter control sequences out of 15000+600000
- 556186 words of font info for 64 fonts, out of 8000000 for 9000
+ 30798 multiletter control sequences out of 15000+600000
+ 555867 words of font info for 63 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,11n,76p,249b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Stern_hw_06.pdf (17 pages, 238175 bytes).
+{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Stern_hw_06.pdf (17 pages, 210835 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 216 compressed objects within 3 object streams
- 52 named destinations out of 1000 (max. 500000)
+ 266 PDF objects out of 1000 (max. 8388607)
+ 217 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
  123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
