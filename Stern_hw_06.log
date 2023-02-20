@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.13)  19 FEB 2023 18:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.13)  19 FEB 2023 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -475,7 +475,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [8]
-<Stern_hw_06_files/figure-latex/random_walk-1.pdf, id=135, 469.755pt x 325.215pt>
+<Stern_hw_06_files/figure-latex/random_walk-1.pdf, id=140, 469.755pt x 325.215pt>
 File: Stern_hw_06_files/figure-latex/random_walk-1.pdf Graphic file (type pdf)
 <use Stern_hw_06_files/figure-latex/random_walk-1.pdf>
 Package pdftex.def Info: Stern_hw_06_files/figure-latex/random_walk-1.pdf  used on input line 264.
@@ -491,7 +491,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [10 <./Stern_hw_06_files/figure-latex/random_walk-1.pdf>]
-<Stern_hw_06_files/figure-latex/rw_diff-1.pdf, id=152, 469.755pt x 325.215pt>
+<Stern_hw_06_files/figure-latex/rw_diff-1.pdf, id=157, 469.755pt x 325.215pt>
 File: Stern_hw_06_files/figure-latex/rw_diff-1.pdf Graphic file (type pdf)
 <use Stern_hw_06_files/figure-latex/rw_diff-1.pdf>
 Package pdftex.def Info: Stern_hw_06_files/figure-latex/rw_diff-1.pdf  used on input line 292.
@@ -547,11 +547,11 @@ Here is how much of TeX's memory you used:
  556186 words of font info for 64 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,11n,76p,249b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Stern_hw_06.pdf (17 pages, 201240 bytes).
+{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/Users/jhstern/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmex10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></Users/jhstern/Library/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Stern_hw_06.pdf (17 pages, 238175 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 199 compressed objects within 2 object streams
+ 267 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
  52 named destinations out of 1000 (max. 500000)
  123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
